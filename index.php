@@ -19,7 +19,7 @@
           </div>
           <div class="field input">
             <label>Last Name</label>
-            <input type="text" name="lname" placeholder="Last name" required>
+            <input type="text" name="lname" placeholder="Last name" >
           </div>
         </div>
         <div class="field input">
